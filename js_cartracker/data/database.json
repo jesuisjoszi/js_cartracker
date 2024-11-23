@@ -1,0 +1,16 @@
+{
+    "char1:44149dfc83ffaaaa23021ddd2f1e7b065765f12a": {
+        "FailedDeliveries": 6,
+        "StolenCars": 21,
+        "EarnedMoney": 25664,
+        "DeliveredVehicles": 157,
+        "Points": 14
+    },
+    "char2:44149dfc83ffaaaa23021ddd2f1e7b065765f12a": {
+        "FailedDeliveries": 155552,
+        "StolenCars": 15555,
+        "EarnedMoney": 15555,
+        "DeliveredVehicles": 15555,
+        "Points": 15555
+    }
+}
